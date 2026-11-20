@@ -1,0 +1,27 @@
+# ==========================================================
+# GITIGNORE — ĐỒ ÁN PTTK HĐT (NHÓM 8)
+# ==========================================================
+
+# 1. TÀI LIỆU & KẾ HOẠCH ÔN THI CÁ NHÂN CỦA NGUYỄN TRÍ CƯỜNG (KHÔNG PUSH LÊN REPO NHÓM)
+On_Kiem_Tra/
+PLAN_KT.md
+.personal/
+*_ca_nhan*
+*on_thi*
+
+# 2. FILE TẠM CỦA MICROSOFT OFFICE (WORD / EXCEL / POWERPOINT)
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# 3. FILE HỆ ĐIỀU HÀNH & IDE / PYTHON
+.DS_Store
+Thumbs.db
+Desktop.ini
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.idea/
+.vscode/
